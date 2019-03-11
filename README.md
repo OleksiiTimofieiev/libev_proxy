@@ -1,5 +1,0 @@
-- libev library used for the project;
-- lines with perror() function == possible errors;
-- sql_line_detection_and_processing() == parsing + async write to file;
-- possible data flow schema: client -> proxy -> SQL;
-- Makefile for Ubuntu 16.04
